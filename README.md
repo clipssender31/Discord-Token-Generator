@@ -1,5 +1,7 @@
 # Discord-Token-Generator
-First Free working discord token generator
-used for memberboosting, server raiding, and/or selling
+First Free Working Discord Token Gen
 
-Help out by giving a star or forking
+# Goal
+40 stars - Release Source
+50 stars - Working unlocked Token Gen with optional phone verify
+100 stars - Ai solver etc
