@@ -1,7 +1,12 @@
 # Discord-Token-Generator
 First Free Working Discord Token Gen
 
-HCAPTCHA SOLVER BELOW
+# Goal
+DISCORD TOKEN GEN
+* 100 stars - Release Source and Working unlocked Token Gen.
+* 135 stars - Ai solver with optional phone verify.
+
+HCAPTCHA SOLVER
 Monthly Access:
 30$ Per Month
 
@@ -16,9 +21,3 @@ All plans have unlimited Solves, unlimited concurrent solves, Solves for any sit
 Solve times:
 5 - 7 Seconds 
 Join to buy: https://discord.gg/Wce7dUsY7A
-
-
-# Goal
-DISCORD TOKEN GEN
-* 100 stars - Release Source and Working unlocked Token Gen.
-* 135 stars - Ai solver with optional phone verify.
