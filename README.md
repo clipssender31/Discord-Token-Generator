@@ -20,5 +20,5 @@ Join to buy: https://discord.gg/Wce7dUsY7A
 
 # Goal
 DISCORD TOKEN GEN
-* 100 stars - Release Source and Working unlocked Token Gen with optional phone verify
-* 135 stars - Ai solver etc
+* 100 stars - Release Source and Working unlocked Token Gen.
+* 135 stars - Ai solver with optional phone verify.
