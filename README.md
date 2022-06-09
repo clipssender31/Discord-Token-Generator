@@ -20,4 +20,4 @@ All plans have unlimited Solves, unlimited concurrent solves, Solves for any sit
 
 Solve times:
 5 - 7 Seconds 
-Join to buy: https://discord.gg/Wce7dUsY7A
+Join to buy: https://discord.gg/Wce7dUsY7A quick
