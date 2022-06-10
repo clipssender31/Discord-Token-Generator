@@ -3,8 +3,10 @@ First Free Working Discord Token Gen
 
 # Goal
 DISCORD TOKEN GEN
-* 120 stars - Release Source and Working unlocked Token Gen.
+* 110 stars - Release Source and Working unlocked Token Gen.
 * 135 stars - Ai solver with optional phone verify.
+
+WE ARE VERY CLOSE TO OUR GOAL OF 110!
 
 HCAPTCHA SOLVER
 Monthly Access:
