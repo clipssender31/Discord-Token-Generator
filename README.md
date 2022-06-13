@@ -18,7 +18,7 @@ Monthly Access:
 Lifetime Access:
 850$ One Time Purchase
 
-All plans have unlimited Solves, unlimited concurrent solves, Solves for any site
+All plans have unlimited Solves, unlimited concurrent solves, Solves for any site.
 
 Solve times:
 5 - 7 Seconds 
