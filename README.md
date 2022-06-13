@@ -6,7 +6,7 @@ DISCORD TOKEN GEN
 * 110 stars - Release Source and Working unlocked Token Gen.
 * 135 stars - Ai solver with optional phone verify.
 
-WE ARE VERY CLOSE TO OUR GOAL OF 110!
+WE HAVE REACHED OUR GOAL OF 110! I WILL BE RELEASING SOON...
 
 HCAPTCHA SOLVER
 Monthly Access:
